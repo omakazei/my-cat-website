@@ -1,0 +1,51 @@
+html, body {
+  background-color: lightgrey;
+  padding: 0;
+  margin-bottom: 0;
+} 
+
+.Top-header {
+  background-color: lightgrey;
+}
+
+.menu-item {
+  color: white;
+  padding: 15px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.brand {
+  font-size: 18px;
+  font-weight: 600;
+}
+.main-content {
+  max-width: 700px;
+  margin: auto;
+}
+
+.box {
+   background-color: whitesmoke; 
+   padding: 20px;
+   margin-bottom: 30px;
+ }
+
+.img {
+  width: 100%;
+}
+
+.button {
+  color: black;
+  background-color: lightgrey; 
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button-footer {
+  background-color: lightgrey;
+  padding: 20px;
+  text-align: center;
+}
+
+  
